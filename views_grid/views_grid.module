@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the views grid feature.
+ */
+
+include_once 'views_grid.features.inc';

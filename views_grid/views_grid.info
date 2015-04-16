@@ -1,0 +1,10 @@
+name = views grid
+core = 7.x
+package = Features
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[views_view][] = accountability_grid
+features[views_view][] = employee_grid
+features[views_view][] = item_grid
+features_exclude[dependencies][ctools] = ctools
