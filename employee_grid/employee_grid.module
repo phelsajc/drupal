@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the employee grid feature.
+ */
+
+include_once 'employee_grid.features.inc';
