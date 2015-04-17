@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the employee_1 feature.
+ */
+
+include_once 'employee_1.features.inc';
